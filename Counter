@@ -1,0 +1,8 @@
+n = int(input())
+i = [0]
+for (i[-1]) in range (n):
+    if i[-1] < n:
+        i.append (i[-1]+1)
+    else:
+        pass
+print(*i[1:], sep='')
